@@ -16,3 +16,4 @@ CLI todo.txt written in Golang using cobra.
 2.  Set up environment variables::
 
 ## Screenshots:
+![Главаная страница](https://github.com/Moonlightwas/Todo/blob/main/images/%7B9550E449-3D18-4812-8A4B-A6071979E3A9%7D.png)
